@@ -1,1 +1,5 @@
-# 10-js-avancado
+# #10 - JS: Avançando
+
+### Brenno
+
+[comment]: <> (Brenno Ferreira Cunha)
